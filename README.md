@@ -10,6 +10,13 @@ It is a tour and travel management project.
 - PHP
 - MySQL
 
+## Environment Setup
+
+- Setup a local server using XAMP or any other virtual servers.
+- Import the sql file given in the folder to the MySQL Server.
+- Move the files to htdocs in the xamp folder and then browse to localhost/trouvaille.
+- There you have it Trouvaille our Tour & Travel Management System running in your browser.
+
 ### Screenshots
 
 
